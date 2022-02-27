@@ -38,7 +38,7 @@ body.dark{
     display: flex;
     align-items: center;
     justify-content: space-between;
-    height: 75px;
+    height: 60px;
     padding: 0 1.5em;
     background-color: var(--bg-card-color);
     transition: var(--transition-background);
@@ -107,7 +107,7 @@ body.dark{
 
 .main{
     display: grid;
-    padding: 2em;
+    padding: 1.5em;
     gap: 0.5em;
 }
 
